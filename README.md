@@ -27,13 +27,17 @@ Test accuracy: 0.9918000102043152
 
 ## Usage
 
-Run `MNIST_digit_recognition_model.py` to obtain `test_model.h5` test data.
+Run `MNIST_digit_recognition_model.py` to obtain `test_model.h5` test model.
 
-You can test your data with `classification.py`.
+You can test your model with `classification.py`.
 
 ![](./images.png)
 
 As default, i tested the model with this 2 images.
+
+Also you can test model from video capture with `video_detection.py`.
+
+![](./handwritten.png)
 
 ### Author
 
